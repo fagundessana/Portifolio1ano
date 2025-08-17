@@ -1,8 +1,19 @@
-<h1>Portifólio do 1 ano em Desenvolvimento de sistemas</h1>
-<p>Neste repositório estaram todos os projetos e atividades propostas em sala de aula em meu primeiro ano em desenvolvimento de sistemas</p>
-<h2>Resumo do conteúdo:</h2>
-<ol>
-  <li>Java e suas bibliotecas</li>
-  <li>HTML e suas tags</li>
-  <li>CSS</li>
-</ol>
+# 👩‍💻 Meu Portfólio - 1º Ano
+
+Bem-vindo(a) ao meu portfólio!  
+Aqui compartilho minha evolução no primeiro ano de estudos em **Desenvolvimento de Sistemas**.
+
+---
+
+## 🚀 Sobre mim
+- 🎓 Estudante da ETEC - Desenvolvimento de Sistemas
+- 💡 Objetivo: Evoluir como desenvolvedora e construir projetos com impacto real
+
+---
+
+
+## 📊 Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fagundessana&show_icons=true&theme=dracula)
+
+---
+✨ Feito com dedicação no meu primeiro ano de jornada!

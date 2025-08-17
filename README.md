@@ -7,7 +7,8 @@ Aqui compartilho minha evolução no primeiro ano de estudos em **Desenvolviment
 
 ## 🚀 Sobre mim
 - 🎓 Estudante da ETEC - Desenvolvimento de Sistemas
-- 💡 Objetivo: Evoluir como desenvolvedora e construir projetos com impacto real
+- 🌍 Interesses: Desenvolvimento web e música
+- 💡 Objetivo: Evoluir como pessoa e construir projetos com impacto real
 
 ---
 
@@ -16,4 +17,3 @@ Aqui compartilho minha evolução no primeiro ano de estudos em **Desenvolviment
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fagundessana&show_icons=true&theme=dracula)
 
 ---
-✨ Feito com dedicação no meu primeiro ano de jornada!
